@@ -12,3 +12,5 @@
 - Git
 - Shell, Shell Tools and Scripting
 - Vim
+- Skills
+  - Making an impressive presentation
